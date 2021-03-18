@@ -1,4 +1,4 @@
 FRAGMENTS
 ## ADDING A FRAGMENT TO AN ACTIVITY DYNAMATICALLY
-<img width="50%" src="screenshots.png">
+<img width="50%" src="screenshots2.png">
 
